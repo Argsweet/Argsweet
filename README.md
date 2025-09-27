@@ -1,10 +1,9 @@
 ## Hi there! 👋 Welcome to my Page!
-***
 
 I'm Annabelle Guiditta, a Data Science student at UCSD | Aspiring Data Scientist / SWE / AI Engineer
 
 ## About Me
-***
+
 - 🚀 Previous **Developer**, now a **Product Manager** at **Triton Software Engineering (TSE)**  
 - 📚 Currently learning/mastering **Python, Java, Unreal Engine, and SQL**  
 - 🎯 Goal: Build and launch my own **personal website**  
